@@ -1,0 +1,6 @@
+com/sap/cinema/Movie.class
+com/sap/cinema/DataBaseAccess.class
+com/sap/cinema/SingleMovieOperationServlet.class
+com/sap/cinema/MoviesOperationsServlet.class
+com/sap/cinema/DataBase.class
+com/sap/cinema/IdNotFoundException.class
